@@ -3,7 +3,7 @@
 ## Variables
 
 ### Main Vars
-* `data` : bind x, y, s
+* `data` : result of  "extracts only the measurements on the mean and standard deviation for each measurement"
 * `summary` : a second, independent tidy data set with the average of each variable for each activity and each subject form 'data'.
 * `summary2`: a second, independent tidy data set with the average of each variable for each activity and each subject from 'x'.
 
@@ -14,7 +14,6 @@
 * `y` : raw data form test/y_test.txt and train/y_train.txt
 * `s` : raw data form test/subject_test.txt and train/subject_train.txt
 * `condi` : for  "extracts only the measurements on the mean and standard deviation for each measurement"
-* `data` : result of  "extracts only the measurements on the mean and standard deviation for each measurement"
 * `lbls` and `act` : temp vars for "Uses descriptive activity names to name the activities in the data set"
 
 
